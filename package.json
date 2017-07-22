@@ -1,0 +1,16 @@
+{
+  "name": "lettering",
+  "version": "1.0.0",
+  "description": "play with lettering",
+  "main": "./js/main.js",
+  "author": "jd",
+  "license": "MIT",
+  "dependencies": {
+    "actuatejs": "^1.0.1",
+    "animate.css": "^3.5.2",
+    "gsap": "^1.20.2",
+    "jquery": "^3.2.1",
+    "jshint": "^2.9.5",
+    "textillate": "^0.4.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "actuate-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "script.js",
+  "author": "jd",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1"
+  }
+}
